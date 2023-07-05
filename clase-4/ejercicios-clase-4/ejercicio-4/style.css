@@ -1,0 +1,38 @@
+* {
+    margin: 0; padding: 0;
+}
+
+p {
+    display: inline;
+}
+
+.e1 {
+    font-size: 120px;
+}
+.e2 {
+    font-size: 130px;
+}
+.e3 {
+    font-size: 110px;
+}
+.e4 {
+    font-size: 75px;
+}
+.e5 {
+    font-size: 25px;
+}
+.e6 {
+    font-size: 115px;
+}
+.e7 {
+    font-size: 70px;
+}
+.e8 {
+    font-size: 100px;
+}
+.e9 {
+    font-size: 130px;
+}
+.e10 {
+    font-size: 20px;
+}

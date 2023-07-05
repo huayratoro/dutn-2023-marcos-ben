@@ -1,17 +1,48 @@
 * {
-    margin: 0; padding: 0;
-    font-family: Montserrat;
+    margin: 0; padding: 0
 }
 
 header, main, footer {
-    padding: 10px;
-    margin: 15px;
+    margin: 15px
 }
 
 h1 {
-    font-size: large;
+    font-size: 70px;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 45px;
+    text-align: center;
 }
 
-p {
-    font-size: smaller;
+.hipervinculo {
+    font-family: sans-serif;
+    text-decoration: none;
+    font-size: 14px;
+    margin: 18px;
+}
+
+.adalink {
+    font-family: sans-serif;
+    text-decoration: none;
+    color: lightskyblue;
+    font-size: 14px;
+}
+
+main p {
+    font-family: sans-serif;
+    font-size: 12pt;
+    margin: 20px;
+    text-align: justify;
+}
+
+.italica {
+    font-style: italic;
+}
+
+.negrita {
+    font-weight: bold;
+}
+
+.parrafo_diferente {
+    font-style: italic;
+    font-family: 'Courier New', Courier, monospace;
 }
