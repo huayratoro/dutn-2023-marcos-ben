@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Montserrat;
+    background-color: #212121;
+    color: #FAFAFA;
+}
+
+main {
+    margin: 50px;
+    padding: 30px;
+}
+
+h1 {
+    font-size: 120px;
+    font-weight: 800;
+}
+
+p {
+    font-size: 48px;
+    font-weight: 600;
+}
+
+.nom1 {
+    color: red;
+}
+.nom2 {
+    color: green;
+}
+.nom3 {
+    color: blue;
+}

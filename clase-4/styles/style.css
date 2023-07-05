@@ -1,0 +1,43 @@
+/*Selector universal*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+/*Las comas (header, main, footer) indican "y", e indican que el selector es multiple*/
+header, main, footer{
+    padding: 15px;
+}
+/*si h2 main {color: red} entonces solo cambia color a el h2 inmerso en main. Es decir es un selector específico.*/
+span {
+    font-weight: bold;
+    background-color: blue;
+    color: yellow;
+}
+/*------------------H---------------------*/
+header {
+    background-color: burlywood;
+}
+/*------------------M---------------------*/
+main {
+    background-color: aquamarine;
+}
+img {
+    display: block;
+    margin: auto;
+}
+.cont-img {
+    padding: 15px;
+    width: 100px;
+    background-color: antiquewhite;
+    margin: auto;
+}
+/*------------------F---------------------*/
+footer {
+    background-color: thistle;
+}
+
+/*el ancho de los elementos html heredan el 100% del ancho disponible del elemento padre*/
+/*los display tienen: inline - inline-block - block*/
+/* si la <p> viene con display block -> elemento en bloque y heredan el 100% del espacio del elemento padre. El elemento inline solo ocupa el espacio del contenido*/
