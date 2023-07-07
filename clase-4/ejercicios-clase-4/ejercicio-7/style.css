@@ -1,0 +1,45 @@
+*{
+    margin: 0; padding: 0;
+    font-family: 'Roboto Mono', monospace;
+    text-align: center;
+}
+
+h1{
+    font-size: 24pt;
+    margin-bottom: 10px;
+    font-weight: bolder;
+}
+
+h2{
+    font-size: 14pt;
+    margin: 15px;
+    padding: 20px;
+}
+
+ul{
+    font-size: 12pt;
+}
+
+li{
+    display: grid;
+    padding: 15px;
+    margin: 1.25px 25% 1.25px 25%;    
+}
+
+.p11{background-color: #ff6961;}
+.p12{background-color: #77dd77;}
+.p13{background-color: #fdfd96;}
+.p14{background-color: #84b6f4;}
+.p15{background-color: #fdcae1;}
+
+.p21{background-color: rgb(255,164,58);}
+.p22{background-color: rgb(255,191,117);}
+.p23{background-color: rgb(117,158,255);}
+.p24{background-color: rgb(117,199,255);}
+.p25{background-color: rgb(82,85,88); color: white;}
+
+.p31{background-color: rgb(24,82,254); color: white;}
+.p32{background-color: rgb(63,121,255);}
+.p33{background-color: rgb(101,159,255);}
+.p34{background-color: rgb(141,197,254);}
+.p35{background-color: rgb(178,237,255);}

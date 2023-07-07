@@ -1,0 +1,39 @@
+*{
+    margin: 0; padding: 0; font-family: 'Poppins', sans-serif;
+    text-align: center;
+}
+
+h1{
+    margin:15px;
+}
+
+li {
+    padding: 2.5px;
+    background-color: aqua;
+    margin: 1.25px 42% 1.25px 42%;
+    list-style-type: none;
+}
+
+.c10{background-color: rgb(107,3,0);color: white;}
+.c9{background-color: rgb(144,16,15);color: white;}
+.c8{background-color: rgb(181,42,37);color: white;}
+.c7{background-color: rgb(210,75,71);}
+.c6{background-color: rgb(246,118,117);}
+.c5{background-color: rgb(255,165,164);}
+.c4{background-color: rgb(255,153,53);}
+.c3{background-color: rgb(255,203,0);}
+.c2{background-color: rgb(255,255,104);}
+.c1{background-color: rgb(253,255,231);}
+
+.cero{background-color: rgb(243, 236, 236);}
+
+.f1{background-color: rgb(123,133,153);color: white;}
+.f2{background-color: rgb(92,112,153);color: white;}
+.f3{background-color: rgb(61,92,153);color: white;}
+.f4{background-color: rgb(31,71,153);color: white;}
+.f5{background-color: rgb(0,51,152);color: white;}
+.f6{background-color: rgb(0,41,123);color: white;}
+.f7{background-color: rgb(0,31,92);color: white;}
+.f8{background-color: rgb(1,20,62);color: white;}
+.f9{background-color: rgb(1,10,31);color: white;}
+.f10{background-color: rgb(1,5,15);color: white;}

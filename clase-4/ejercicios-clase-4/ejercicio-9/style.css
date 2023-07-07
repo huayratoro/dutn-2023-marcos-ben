@@ -1,0 +1,31 @@
+*{
+    box-sizing: border-box; margin: 0; padding: 0;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 14pt;
+}
+
+.titulo1{
+    font-size: larger;
+    margin-top: 22.5px;
+}
+
+.titulo2{
+    font-size: larger;
+    margin-top: 45px;
+}
+
+.fechas{
+    font-size: smaller;
+    color: rgb(93, 97, 100);
+    margin: 15px;
+}
+
+.ing{
+    margin: 15px;
+    color: green;
+}
+
+.eg{
+    margin: 15px;
+    color: red;
+}

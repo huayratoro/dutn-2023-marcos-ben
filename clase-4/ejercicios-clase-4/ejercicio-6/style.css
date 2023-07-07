@@ -1,3 +1,30 @@
-* {
-    margin: 0; padding: 0
+/*selector universal*/
+*{
+    margin: 0; padding: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
 }
+
+main{
+    text
+}
+
+h1{
+    font-weight: 1000;
+    margin-bottom: 25px;
+}
+
+ul li{
+    margin-bottom: 5px;
+}
+
+.manzana{color: red;}
+.pera{color: light greenyellow;}
+.banana{color: yellow;}
+.anana{color: orange;}
+.frutilla{color: darkred;}
+.kiwi{color: darkolivegreen;}
+.melon{color: goldenrod;}
+.durazno{color: orangered;}
+.ciruela{color: indigo;}
+.arandanos{color: purple;}
