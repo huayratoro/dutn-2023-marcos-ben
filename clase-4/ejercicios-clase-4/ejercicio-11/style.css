@@ -1,0 +1,27 @@
+*{
+    margin: 0; padding: 0; box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18pt;
+}
+
+h2 {
+    font-size: 28pt;
+}
+
+h3 {
+    font-size: 24pt;
+}
+
+.usuarie {
+    color: deepskyblue;
+    text-decoration: none;
+}
+
+.vista {
+    font-size:smaller; color: gray;
+}
+
+span {
+    background-color: rgb(211, 206, 206); display: inline-block;
+    margin: 7.5px;
+}

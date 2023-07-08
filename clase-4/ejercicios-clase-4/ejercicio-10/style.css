@@ -1,0 +1,25 @@
+*{
+    margin: 0; padding: 0; box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 h2 {
+    font-size: 18pt;
+    margin: 50px;
+}
+
+.pendiente {
+    color: blue;
+}
+
+.haciendo {
+    color: orange;
+}
+
+.hecha {
+    color: green;
+}
+
+.cancelada {
+    color: red;
+}
