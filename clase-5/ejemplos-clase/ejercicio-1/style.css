@@ -1,0 +1,18 @@
+.cont-section{
+    background-color: rgb(153, 175, 195);
+    display: flex; /*solo en contenedores*/
+    /*Eje X*/
+    justify-content:center;
+    /*Eje Y*/
+    align-items: center;
+    /*100 vewport-heigth cuanto de lo q se ve en la pantalla quiero que se ocupe el elemento*/
+    min-height: 100vh; 
+}
+
+div {
+    background-color: rgb(137, 232, 227);
+    width: 200px;
+    padding: 30px;
+    margin: 10px;
+    text-align: center;
+}
