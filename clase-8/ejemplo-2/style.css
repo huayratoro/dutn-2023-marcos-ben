@@ -1,0 +1,26 @@
+*{
+    margin: 0; padding: 0; box-sizing: border-box;
+}
+
+.cont-dices {
+    background-color: #d3d3d3;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+.cont-dices .dice{
+    width: 100px;
+    height: 100px;
+    background-color: white;
+}
+
+.d1 {
+    display: ;
+}
+
+.d1 div{
+    background-color: black;
+}

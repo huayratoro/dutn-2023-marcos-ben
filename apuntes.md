@@ -1,4 +1,3 @@
-# Clase 5
 ## Flexbox y Grid
 
 Flexbox: Los elementos hijos se pueden re-ubicar. Para ubicar un elemento al lado del otro. En los headers se usa. En párrafo al lado del texto. 
@@ -18,3 +17,21 @@ Formularios:
 Datos de contacto! Empieza con un titulo (en general fuera del formulario). Hay un input (pide dato a cleinte). Cada campo es un input.
 
 *placeholder=* para que aparezca el nombre dentro de la cajita.
+
+*display flex* siempre que el contenido este en columnas. elementos uno al lado del otro. **Siempre va en contenedores**. 
+
+en lo elementos flex nunca va margin!!
+
+## Responsive designe
+
+adaptabilidad a cada dispositivo. diseño adaptable al dispositivo donde se abra la web.
+
+se aplica en el css. es algo visual de la web.
+
+@main (ancho maximo)
+
+@main (max-width: -px) {
+    main {
+        prop que cambia
+    }
+}
