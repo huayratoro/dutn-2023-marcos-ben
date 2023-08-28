@@ -1,0 +1,85 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+body{
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background-color: #f0f0f6;
+}
+
+section{
+    background-color: #f4f5fa;
+    border-radius: 10px;
+}
+
+section h1 {
+    padding: 25px;
+}
+
+section p {
+    padding: 25px;
+}
+
+.cont-cards{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+.cont-card1, .cont-card2, .cont-card3{
+    border-radius: 10px;
+    background-color: white;
+    padding: 25px;
+    margin: 15px 25px;
+}
+
+.cont-card1 {
+    box-shadow: -13px -13px 5px 2px rgba(255, 251, 236, 1);
+}
+
+.cont-card2 {
+    box-shadow: -13px -13px 5px 2px rgba(249, 236, 255, 1);
+}
+
+.cont-card3 {
+    box-shadow: -13px -13px 5px 2px rgba(236, 238, 255, 1);
+}
+
+h2 {
+    margin: 10px auto;
+}
+
+.precio-num{
+    font-weight: bold;
+    font-size: 20pt;
+}
+
+.cont-logo img{
+    width: 75px;
+}
+
+button{
+    padding: 10px;
+    border-radius: 10px;
+}
+
+button:hover{
+    cursor:pointer;
+}
+
+.boton-card{
+    background-color: #f4f5fa;
+}
+
+.boton-div{
+    margin: 50px;
+    background-color: #171435;
+    color: white;
+}

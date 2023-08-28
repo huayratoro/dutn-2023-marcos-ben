@@ -1,0 +1,102 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    text-align: center;
+    background-image: url(https://englishlive.ef.com/es-mx/blog/wp-content/uploads/sites/8/2014/11/Top_5_movies_to_help_you_learn_business_english.jpg);
+    background-size: cover;
+}
+
+section{
+    width: 400px;
+    text-align: center;
+}
+
+.cont-main {
+    background-color: rgba(0, 0, 0, 0.6);
+    padding: 50px 25px;
+    border: 2.5px solid white;
+    border-radius: 10px;
+}
+
+.cont-main h1 {
+    color: white;
+    font-size: 48px;
+}
+
+#btn{
+    font-size: 24px;
+    padding: 10px 5px;
+    border-radius: 10px;
+}
+
+#btn a {
+    text-decoration: none;
+    color: black;
+}
+
+#btn:hover{
+    background-color: rgba(172, 59, 59, 0.609);
+    color: white;
+    cursor: pointer;
+}
+
+.green{
+    background-color: green;
+    color: white;
+}
+
+.red{
+    background-color: red;
+    color: white;
+}
+
+/* MENSAJES */
+
+.mensaje-edad{
+    background-color: rgba(57, 91, 121, 0.599);
+    margin: 50px;
+    padding: 25px;
+    border: 2.5px solid white;
+    border-radius: 10px;
+    color: white;
+    display:none;
+}
+
+.mensaje-permiso{
+    background-color: rgba(148, 133, 43, 0.776);
+    margin: 25px;
+    padding: 25px;
+    border: 2.5px solid white;
+    border-radius: 10px;
+    color: white;
+    display: none;
+}
+
+.mensaje-aceptado{
+    background-color: rgba(25, 126, 18, 0.825);
+    margin: 25px;
+    padding: 25px;
+    border: 2.5px solid white;
+    border-radius: 10px;
+    color: white;
+    display: none;
+}
+
+.mensaje-denegado{
+    background-color: rgb(251, 0, 0);
+    margin: 25px;
+    padding: 25px;
+    border: 2.5px solid white;
+    border-radius: 10px;
+    color: white;
+    display: none;
+}

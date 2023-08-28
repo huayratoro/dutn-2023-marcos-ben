@@ -55,3 +55,15 @@ Es una libreria de CSS. Toma estilos prestados con clases. Siempre es mejor esti
 A veces se usa bootstrap para añadir contenedores responsive y no hacerlo manualmente. Para estructurar contenedores de forma fácil. 
 
 Su fuerte también son los componentes. Fragmentos de codigo q resuelven ciertas funcionalidades 
+
+# JavaScript
+
+Es un lenguaje case sensitive. Se deben nombrar las variables como cammelcase. empiezan en minuscula y cada palabra que continua comienza con mayuscula. 
+
+Se ejecuta el codigo mediante el comando <script> en el index.html .
+
+También se crea un .js en el directorio. Siempre se pone al final, antes que cierre el body.
+
+Los ID se usan para JS y las clases para CSS. El ID es unico. 
+
+string.includes("a") si coentiene la letra "a" en el string. array.contains("") si contiene el elemento "" dentro del array.

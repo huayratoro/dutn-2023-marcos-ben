@@ -9,17 +9,20 @@
 .container {
     width: 100%;
     min-height: 100vh;
-    background-color: #333;
+    /* background-color: #333; */
+    background-image: url(https://www.dekoori.com/upload/file-TAP-0065-SB_5354-tapeta-scienna-gwiazdy-gwiazdozbior-szaro-biala-dla-dzieci-dekoracyjna-sklep-dekoori-pl.webp);
 }
 
 .container h1 {
     padding: 30px;
     text-align: center;
     font-size: 28pt;
+    color: black;
 }
 
-.container p {
+.desc {
     text-align: center;
+    color: black;
 }
 
 .price-row {

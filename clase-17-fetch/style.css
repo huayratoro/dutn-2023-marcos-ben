@@ -1,0 +1,44 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/* Heather */
+
+header, footer{
+    background-color: aquamarine;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Main */
+
+main {
+    min-height: 100vh;
+    background-color: burlywood;
+}
+
+/* Seccion de personajes  */
+
+section {
+    padding: 20px;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+    justify-self: center;
+}
+
+/* Personaje */
+
+.personaje{
+    background-color: tomato;
+    width: 200px;
+    padding: 20px;
+    text-align: center;
+}
+
+.personaje img {
+    width: 150px;
+}
+
