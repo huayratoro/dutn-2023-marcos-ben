@@ -1,5 +1,6 @@
 import "./Main.css"
 import imgDiv from "/home/marcos/Documentos/dutn-2023-marcos-ben/tps/react-tp-1/src/assets/img/img-div.png"
+import imgIntro from "/home/marcos/Documentos/dutn-2023-marcos-ben/tps/react-tp-1/src/assets/img/img-intro.png"
 
 const Main = () => {
     return (
@@ -10,8 +11,10 @@ const Main = () => {
             </div>
             </section>
             <section class="cont-intro">
-                <h1>Presentamos AgroSat</h1>
-                <h2>¡Del espacio a tu lote!</h2>
+                <div class="cont-titulo">
+                    <h1>Presentamos AgroSat</h1>
+                </div>
+                <h2>¿Qué hacemos?</h2>
                 <div class="columnas">
                     <div>
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam mollitia, voluptates labore explicabo debitis, quidem consequatur iste facere officia obcaecati temporibus necessitatibus maiores rem, sit quam vel possimus veniam odit?</p>
@@ -24,9 +27,17 @@ const Main = () => {
                     </div>
                 </div>
             </section>
-            <section class="cont-mapa">
-                <h2>¿Dónde nos ubicamos?</h2>
-                {/* MAPA */}
+            <hr />
+            <section class="cont-formulario">
+                <h2>Contáctenos</h2>
+                <div class="mb-3">
+                    <label for="exampleFormControlInput1" class="form-label">Ingrese su correo: </label>
+                    <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="nombre@ejemplo.com"></input>
+                </div>
+                <div class="mb-3">
+                    <label for="exampleFormControlTextarea1" class="form-label">Ingrese su consulta: </label>
+                    <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+                </div>                
             </section>
         </main>
     )

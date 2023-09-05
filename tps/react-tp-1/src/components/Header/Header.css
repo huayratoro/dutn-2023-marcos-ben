@@ -1,5 +1,22 @@
 header {
     text-align: center;
-    background-color: aquamarine;
-    padding: 15px;
+}
+
+.topnav {
+    background-color: #1e404c;
+    overflow: hidden;
+}
+
+.topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 7px 8px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.topnav a:hover{
+    background-color: #f2f2f2;
+    color: #333;
 }
