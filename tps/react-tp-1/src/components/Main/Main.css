@@ -30,7 +30,7 @@ main {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-image: url(/src/assets/img/img-intro.png);
+    background-image: url(/src/components/Main/assets/img/img-intro.png);
     background-size: cover;
     height: 100vh;
 }

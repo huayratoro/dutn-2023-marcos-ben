@@ -1,6 +1,5 @@
 import "./Main.css"
-import imgDiv from "/home/marcos/Documentos/dutn-2023-marcos-ben/tps/react-tp-1/src/assets/img/img-div.png"
-import imgIntro from "/home/marcos/Documentos/dutn-2023-marcos-ben/tps/react-tp-1/src/assets/img/img-intro.png"
+import imgDiv from "./assets/img/img-div.png"
 
 const Main = () => {
     return (
