@@ -23,6 +23,30 @@ const Main = () => {
                     name="Benteveo común" 
                     origen="Córdoba"
                 />
+                <Card 
+                    img="https://www.ecoregistros.org/site/images/dataimages/2021/08/01/455465/Loica-Comun--Leistes-loyca-.jpg" 
+                    nameC="Leistes loyca" 
+                    name="Loica común" 
+                    origen="Mendoza"
+                />
+                <Card 
+                    img="https://cdn.download.ams.birds.cornell.edu/api/v1/asset/116096251/1800" 
+                    nameC="Mimus saturninus" 
+                    name="Calandria comun" 
+                    origen="Buenos Aires"
+                />
+                <Card 
+                    img="https://cdn.download.ams.birds.cornell.edu/api/v1/asset/88527851/1800" 
+                    nameC="Cariamidae sp." 
+                    name="Chu{a patas rojas" 
+                    origen="Chaco"
+                />
+                <Card 
+                    img="https://upload.wikimedia.org/wikipedia/commons/8/88/Trogon_surrucura_brazil.jpg" 
+                    nameC="Trogon surucua" 
+                    name="Surucuá" 
+                    origen="Jujuy"
+                />
             </section>
         </main>
     )
