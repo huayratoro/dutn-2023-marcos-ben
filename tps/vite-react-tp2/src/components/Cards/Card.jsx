@@ -7,7 +7,7 @@ const Card = ({img, nameC, name, origen}) => {
                 src={img} 
                 alt="" 
             />
-            <h2>Nombre científico: {nameC}</h2>
+            <h3>Nombre científico: {nameC}</h3>
             <p>Nombre común: {name}</p>
             <p>Origen: {origen}</p>
         </div>

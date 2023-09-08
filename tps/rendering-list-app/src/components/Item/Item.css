@@ -1,0 +1,27 @@
+.cont-info{
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin: 5px;
+    text-align: center;
+}
+
+.cont-info img {
+    height: 400px;
+    width: 400px;
+    border-radius: 50%;
+    padding: 10px;
+}
+
+.nombre-personaje {
+    text-align: center;
+}
+
+.cont-info h3 {
+    text-align: left;
+}
+
+.cont-info:hover {
+    cursor: pointer;
+    border-color: red;
+}

@@ -10,7 +10,7 @@ const Header = () => {
                     <li><a href="#">Contenido</a></li>
                 </ul>
             </nav>
-            <h1>Algunas aves argentinas</h1>
+            <h1>Algunos pajaritos argentinos</h1>
             <hr />
         </header>
     )

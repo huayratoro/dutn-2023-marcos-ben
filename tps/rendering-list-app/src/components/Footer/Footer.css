@@ -1,0 +1,13 @@
+footer {
+    text-align: center;
+    padding: 25px;
+}
+
+footer h1 {
+    padding: 25px 10px;
+}
+
+footer a {
+    text-decoration: none;
+    color: black;
+}
