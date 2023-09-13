@@ -1,0 +1,22 @@
+header{
+    text-align: center;
+    padding: 25px;
+}
+
+div ul {
+    display: flex;
+    align-items: center;
+    justify-content:space-around;
+}
+
+div ul li {
+    list-style: none;
+    padding: 15px;
+}
+
+header section {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 25px 10px;
+}
